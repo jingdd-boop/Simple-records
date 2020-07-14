@@ -15,7 +15,7 @@
                 <em v-show="focus==3||pswIn==false">*密码不能小于6位</em>
             </label> 
             <button class="loginSub" @click="addToSql">
-                <span v-show="!result">注册速讯</span>
+                <span v-show="!result">注册简录</span>
                 <span v-if="req" v-show="result">注册成功</span>
                 <span v-else v-show="result">重新注册</span>
                 <i class="fa fa-spinner fa-spin" v-show="icon"></i>

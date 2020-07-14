@@ -107,7 +107,7 @@ export default {
     padding: 0;
     margin-top: 11px;
     border: none;
-    color: #0f88eb;
+    color: #d87575;
     background: none;
     border-radius: 4px;
     cursor: pointer;
