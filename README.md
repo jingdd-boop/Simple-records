@@ -17,7 +17,6 @@
 
 
 ## 动图展示
-![](https://github.com/windlany/mail_list/blob/master/static/img/mailList.gif)
 
 ## 运行项目
 ```bash
@@ -31,23 +30,23 @@ npm install
 npm run dev 
 ```
 
-#### 2017.12.21
+
 - vue
 - vue-router
 - localStorage
 - axios
 
-#### 2017.12.23
+
 - 登录注册界面vuex
 - <del>localStorae</del>
 - <del>axios</del>
 - sessionStorage缓存用户信息以及已登录用户信息
 - 仅支持单用户注册
 
-#### 2017.12.24
+
 - 完善登录注册界面的vuex
 - localStorage缓存用户信息，sessionStorage缓存当前登录用户信息
 - 支持多用户注册
 
-#### 2018.1.12
+
 - 添加导航守卫
