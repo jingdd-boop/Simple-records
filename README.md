@@ -8,12 +8,8 @@
 > - axios
 > - localStorage
 > - sessionStorage
-> 
-> 写这个项目之前我用vue写过很多小的页面部件，比如选项卡、路由跳转之类的，但毕竟这些涉及的知识是零散的，当系统的学习了之后我就想做一个整体性的项目，一方面巩固知识一方面打通经脉，所以就写了这个通讯录。
->
-> 目前这个通讯录支持多用户注册，后期还可以用node写一个后台与之交互，我也会一直维护，完善以及优化项目，也会根据需求增添个别功能，学vue的朋友也可以clone下来练练手。
->
->从零出发完成一个SPA。
+
+
 
 
 ## 动图展示
@@ -21,7 +17,7 @@
 ## 运行项目
 ```bash
 # clone项目到本地
-git clone https://github.com/windlany/mail_list.git
+git clone https://github.com/jingdd-boop/Simple-records.git
 
 # 安装项目依赖
 npm install
